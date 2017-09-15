@@ -56,32 +56,13 @@
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="bin\Debug\Config\log4net.config" />
-    <None Include="bin\Debug\Log4NetDemo.exe.config" />
-    <None Include="bin\Debug\Log4NetDemo.vshost.exe.config" />
-    <None Include="bin\Debug\Log4NetDemo.vshost.exe.manifest" />
     <None Include="Config\log4net.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <SubType>Designer</SubType>
     </None>
-    <None Include="obj\Debug\Log4NetDemo.csprojResolveAssemblyReference.cache" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="obj\Debug\TempPE\" />
     <Folder Include="Properties\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="bin\Debug\log4net.dll" />
-    <Content Include="bin\Debug\log4net.xml" />
-    <Content Include="bin\Debug\Log4NetDemo.exe" />
-    <Content Include="bin\Debug\Log4NetDemo.pdb" />
-    <Content Include="bin\Debug\Log4NetDemo.vshost.exe" />
-    <Content Include="bin\Debug\System.Net.Http.dll" />
-    <Content Include="bin\Debug\System.Net.Http.xml" />
-    <Content Include="bin\Debug\zh-Hans\System.Net.Http.resources.dll" />
-    <Content Include="obj\Debug\Log4NetDemo.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\Debug\Log4NetDemo.exe" />
-    <Content Include="obj\Debug\Log4NetDemo.pdb" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
