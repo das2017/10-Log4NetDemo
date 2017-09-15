@@ -2,3 +2,4 @@
 /.vs
 /Log4NetDemo/obj
 /Log4NetDemo/bin
+/Log4NetDemo/*.user
