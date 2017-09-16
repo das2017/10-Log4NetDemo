@@ -11,6 +11,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceDll", "ReferenceDl
 		ReferenceDll\log4net.xml = ReferenceDll\log4net.xml
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{B75D6DCC-F17E-435D-B98D-EF4C3DD6CC09}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\filebeat-1.3.0-windows.7z = Documents\filebeat-1.3.0-windows.7z
+		Documents\filebeat-1.3.0-x86_64.7z = Documents\filebeat-1.3.0-x86_64.7z
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
