@@ -1,6 +1,6 @@
 # Log4NetDemo
 
-## 第10章的Demo下载及更多资料：
+## 第10章的Demo下载及更多资料
 + Log4NetDemo下载地址：https://github.com/das2017/Log4NetDemo
 + ELK官网：https://www.elastic.co/
 + 正则表达式配置说明：https://www.elastic.co/guide/en/beats/filebeat/current/regexp-support.html
